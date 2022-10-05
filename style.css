@@ -1,0 +1,61 @@
+body{
+    background-color: skyblue;
+}
+
+.logo{
+    text-align: center;
+}
+.logo img{
+    width: 20%;
+    text-align: center;
+    margin-bottom: 30px;
+    
+   
+}
+form{
+    width: 500px;
+    height: 600px;
+    background-color:lightblue;
+    padding:20px;
+}
+.for-mail input{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    
+}
+.for-mail label{
+    font-weight: 700;
+    font-size: 20px;
+  
+}
+.for-pass input{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;      
+}
+.for-pass label{
+    font-weight: 700;
+    font-size: 20px;
+   
+}
+
+
+.login-btn input{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: darkblue;
+    color:white;
+    font-weight: 900;
+    margin-top:30px;
+    
+}
+.link{
+   display: flex;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    
+}
